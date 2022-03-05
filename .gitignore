@@ -1,2 +1,4 @@
-
+conceptnet_english.txt
+__pycache__/
+util*
 .DS_Store
